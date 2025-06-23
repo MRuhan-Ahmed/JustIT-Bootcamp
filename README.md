@@ -1,29 +1,89 @@
-Hi 👋 My name is Ruhan Ahmed
-============================
+# JustIT Bootcamp Projects 📊
 
-Junior Data Analyst
--------------------
+Welcome! This repository showcases my 8-week Data Technician Skills bootcamp journey, covering tools like Excel, Power BI, Tableau, MySQL, Azure, and Python. Each weekly folder contains exercises from the official workbook along with my code and outputs. Contact me at **mruhan.ahmed@outlook.com** for questions or feedback.
 
-Mathematics graduate with a strong interest in data, especially machine learning and its algorithms.
+---
 
-Accomplished Booking Administrator, confident in communicating effectively, identifying data patterns, and solving problems under pressure.
+## 📁 Week 1 – Excel
 
-Currently completing an 8-week Data Technician Skills bootcamp, building practical experience through hands-on projects displayed on my GitHub.
+**Files included:**
+- Workbook exercises: data cleaning, formulas (e.g. VLOOKUP), pivot tables, and charts
+- Data validation and conditional formatting examples
 
-Actively seeking a Junior/Entry level Data Analyst role, to apply and grow my skills in a real-world, data-driven environment, and support a dynamic company with insights and achieve its KPI objectives.
+**What I learned:**
+- Efficiently cleaning and structuring raw data
+- Using Excel formulas to generate insights
+- Presenting data visually with charts and summaries
 
-* 🌍  I'm based in the UK
-* ✉️  You can contact me at [mruhan.ahmed@outlook.com](mailto:mruhan.ahmed@outlook.com)
-* 🧠  I'm learning Mathematics for Machine Learning, PyTorch and TensorFlow
+---
 
-### Skills
+## 📁 Week 2 – Power BI & Tableau
 
+**Files included:**
+- Power BI `.pbix` file with interactive dashboards and DAX measures
+- Tableau `.twb/.twbx` file with data stories and visualizations
 
-<p align="left">
-<a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" title="Python"/></a><a href="https://lua.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/lua-colored.svg" width="36" height="36" alt="Lua" title="Lua"/></a><a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode-colored.svg" width="36" height="36" alt="VS Code" title="VS Code"/></a><a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" title="MySQL"/></a><a href="https://www.adobe.com/uk/products/illustrator.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/illustrator-colored.svg" width="36" height="36" alt="Illustrator" title="Illustrator"/></a><a href="https://cloud.google.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/googlecloud-colored.svg" width="36" height="36" alt="Google Cloud" title="Google Cloud"/></a><a href="https://pytorch.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/pytorch-colored.svg" width="36" height="36" alt="PyTorch" title="PyTorch"/></a><a href="https://www.tensorflow.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tensorflow-colored.svg" width="36" height="36" alt="TensorFlow" title="TensorFlow"/></a>
-</p>
+**What I learned:**
+- Connecting and transforming datasets in Power BI
+- Designing dashboards using slicers, KPIs, and visuals
+- Storytelling through Tableau using dashboards and filters
 
+---
 
-### Socials
+## 📁 Week 3 – MySQL
 
-<p align="left"> <a href="https://www.github.com/mruhan-ahmed" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" alt="Github" title="Github" /> </picture> </a> <a href="https://www.linkedin.com/in/mruhan-ahmed/" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" alt="LinkedIn" title="LinkedIn" /> </picture> </a></p>
+**Files included:**
+- `.sql` scripts: table creation, data insertion, SELECT queries
+- JOINs, aggregations, subqueries, and filtering examples
+
+**What I learned:**
+- Writing SQL queries to extract and analyze data
+- Building relational databases and understanding schemas
+- Using functions, JOINs, and filtering logic
+
+---
+
+## 📁 Week 5 – Azure
+
+**Files included:**
+- Deployment notes and scripts (e.g. Azure CLI, ARM templates)
+- Demo notebooks or workflow steps (e.g. blob storage, Databricks)
+
+**What I learned:**
+- Creating and managing Azure resources for data workflows
+- Introduction to cloud data pipelines
+- Basic data security and access control on Azure
+
+---
+
+## 📁 Week 6 – Python
+
+**Files included:**
+- `.ipynb` notebooks with data cleaning (pandas), visualization (matplotlib/seaborn)
+- Simple machine learning examples with scikit-learn
+
+**What I learned:**
+- Automating data workflows with Python
+- Data analysis using pandas and numpy
+- Building and evaluating a basic machine learning model
+
+---
+
+## 🔜 Next Steps
+
+- (in progress) APIs, web scraping, advanced ML and deployment
+- Final project combining tools into an end-to-end data solution
+
+---
+
+## 📫 Contact & Connect
+
+- **Email**: mruhan.ahmed@outlook.com  
+- **GitHub**: [github.com/MRuhan-Ahmed](https://github.com/MRuhan-Ahmed)  
+- **LinkedIn**: [Your LinkedIn URL](https://www.linkedin.com/in/mruhan-ahmed/)
+
+---
+
+### 📝 How to Use
+
+Each folder contains weekly work including exercises, code, dashboards, and visuals. You can explore each week's progress to track development in specific tools and technologies.

@@ -80,7 +80,7 @@ Welcome! This repository showcases my 8-week Data Technician Skills bootcamp jou
 
 - **Email**: mruhan.ahmed@outlook.com  
 - **GitHub**: [github.com/MRuhan-Ahmed](https://github.com/MRuhan-Ahmed)  
-- **LinkedIn**: [Your LinkedIn URL](https://www.linkedin.com/in/mruhan-ahmed/)
+- **LinkedIn**: [linkedin.com/in/mruhan-ahmed/](https://www.linkedin.com/in/mruhan-ahmed/)
 
 ---
 

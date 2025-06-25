@@ -1,5 +1,4 @@
-# Week 5 – Azure & Cloud Fundamentals ☁️
-
+# Week 5 – Azure & Fabric
 In Week 5, we completed interactive workshop labs on **Skillable**, focusing on essential concepts in cloud computing, Azure services, and Microsoft Fabric. Exercises supported the **DP-900 (Azure Data Fundamentals)** and **DP-700 (Azure Data Analyst)** certifications.
 
 ---

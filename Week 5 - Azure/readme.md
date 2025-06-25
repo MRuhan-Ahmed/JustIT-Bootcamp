@@ -33,6 +33,7 @@ In Week 5, we completed interactive workshop labs on **Skillable**, focusing on 
 ## 🧠 Key Takeaways
 
 Learned core cloud concepts and practiced using Azure tools for relational, non-relational, and analytical data, with a focus on legal and ethical data handling.
+
 ---
 
 For more context, see Microsoft’s [Azure Data Fundamentals certification guide](https://learn.microsoft.com/en-us/certifications/azure-data-fundamentals/).

@@ -1,4 +1,4 @@
-# Week 1 – Excel & Data Literacy
+# Week 1 – Excel
 
 This week introduced foundational Excel skills and key data laws. The workbook tasks involved data protection research, spreadsheet calculations, pivot tables, and summary dashboards.
 
